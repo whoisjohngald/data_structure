@@ -1,2 +1,2 @@
-# data_structureAlgorithms
+# Algorithms
 Leetcode problem solutions
